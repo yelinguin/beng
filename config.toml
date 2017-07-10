@@ -4,7 +4,7 @@ publishDir = "docs"
 languageCode = "en-us"
 title = "Guin Guin"
 theme = "beautifulhugo"
-metaDataFormat = "toml"
+metaDataFormat = "yaml"
 
 [Params]
   subtitle = "How many times do I try blogging"
