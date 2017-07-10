@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux Linux Mint on Guin Guin</title>
-    <link>http://example.org/tags/linux-linux-mint/</link>
+    <link>https://yelinguin.github.io/beng/tags/linux-linux-mint/</link>
     <description>Recent content in Linux Linux Mint on Guin Guin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jul 2017 20:07:28 +0700</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/linux-linux-mint/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yelinguin.github.io/beng/tags/linux-linux-mint/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Linuxmint</title>
-      <link>http://example.org/post/linuxmint/</link>
+      <link>https://yelinguin.github.io/beng/post/linuxmint/</link>
       <pubDate>Sat, 01 Jul 2017 20:07:28 +0700</pubDate>
       
-      <guid>http://example.org/post/linuxmint/</guid>
+      <guid>https://yelinguin.github.io/beng/post/linuxmint/</guid>
       <description>หลังจากได้คอมพิวเตอร์เครื่องใหม่ อยากกลับไปใช้งาน Linux เงื่อนไข คือ ต้องเล่น Steam ได้ เพราะจะเอามาตีดอท ฮ่าๆ และที่สำคัญต้องมีไดรเวอร์การ์ดไวเลสที่ซื้อมาแบบพร้อมใช้งาน (ขี้เกียจ) จากประสบการณ์ควรใช้ชิปของ Intel (Broadcom ต้องออกแรงอีก เหนื่อย)
 ให้ง่ายต้องเลือก Ubuntu Derivative เลือก Mint (ลีนุกซ์เลขไทย 2 แปลกดี) เคยเล่นแล้วประทับใจดี เลือกใช้เวอร์ชั่น Cinnamon 18.1 Serena ซึ่งพัฒนาจาก Ubuntu 16.04
 จากนั้น จึงดาวน์โหลดไฟล์ ISO แล้วมายัดใส่ USB เนื่องจากไม่มีสายไฟ Molex to SATA (Power Supply มีไม่พอ เห้อ แต่ขน DVD-ROM มาจากบ้านเลยนะนั่น) โดยใช้โอเพ่นซอร์สตัวนึงชื่อ Rufus เป็นอันเสร็จเรียบร้อย

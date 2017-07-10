@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://yelinguin.github.io/beng/"
 DefaultContentLanguage = "th"
 publishDir = "docs"
 languageCode = "en-us"
