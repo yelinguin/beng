@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Guin Guin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Jul 2017 23:15:15 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 03 Sep 2017 17:54:30 +0700</lastBuildDate>
     
 	<atom:link href="https://yelinguin.github.io/beng/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Linuxmint Sound</title>
+      <link>https://yelinguin.github.io/beng/post/linuxmint-sound/</link>
+      <pubDate>Sun, 03 Sep 2017 17:54:30 +0700</pubDate>
+      
+      <guid>https://yelinguin.github.io/beng/post/linuxmint-sound/</guid>
+      <description>หลังจากใช้งานลีนุกซ์ Mint มาสักพักนึง ชอบมีปัญหาไม่มีเสียงอยู่หลายครั้ง แต่มีอยู่วันนึงพอเสียบลำโพง (เนื่องจากไม่ได้เสียบลำโพงไว้ตลอดเวลาเพราะข้อจำกัดของพื้นที่) ดันไม่มีเสียงซะงั้น จึงต้องหาวิธีแก้กันใหญ่เลย ลงโน่นลงนี้ ลบโน่นลบนี่ alsamixer ว่าไปเรื่อย กว่าจะแก้ได้ก็เล่นเอาเหนื่อยเหมือนกันแหะ (จำวิธีแก้ไม่ได้แล้วด้วย เพราะลองหลายวิธีไม่รู้วิธีไหนเวิร์ค)
+แค่นี้แหละ บ่นๆ
+โกโรโกโส</description>
+    </item>
     
     <item>
       <title>About</title>
