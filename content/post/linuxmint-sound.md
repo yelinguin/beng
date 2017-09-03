@@ -1,7 +1,7 @@
 ---
 title: "Linuxmint Sound"
 date: 2017-09-03T17:54:30+07:00
-draft: true
+draft: false
 
 subtitle: "เสียงในลีนุกซ์ Mint มีปัญหาอีกละ"
 tags: ["linux, linux mint"]
