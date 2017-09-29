@@ -1,7 +1,7 @@
 ---
 title: "บทวิจารณ์พรีเมียร์ลีกสัปดาห์ที่ 6"
 date: 2017-09-29T20:49:14+07:00
-draft: true
+draft: false
 
 subtitle: "บทวิจารณ์หลังเกมสัปดาห์ที่ 6 สไตล์บ้านๆ"
 tags: ["premierleague, football"]
