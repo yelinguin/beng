@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Guin Guin</title>
-    <link>http://localhost/tags/</link>
+    <link>https://yelinguin.github.io/tags/</link>
     <description>Recent content in Tags on Guin Guin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Sep 2017 20:49:14 +0700</lastBuildDate>
     
-	<atom:link href="http://localhost/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yelinguin.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Football</title>
-      <link>http://localhost/tags/football/</link>
+      <link>https://yelinguin.github.io/tags/football/</link>
       <pubDate>Fri, 29 Sep 2017 20:49:14 +0700</pubDate>
       
-      <guid>http://localhost/tags/football/</guid>
+      <guid>https://yelinguin.github.io/tags/football/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>http://localhost/tags/linux/</link>
+      <link>https://yelinguin.github.io/tags/linux/</link>
       <pubDate>Sun, 03 Sep 2017 17:54:30 +0700</pubDate>
       
-      <guid>http://localhost/tags/linux/</guid>
+      <guid>https://yelinguin.github.io/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux Mint</title>
-      <link>http://localhost/tags/linux-mint/</link>
+      <link>https://yelinguin.github.io/tags/linux-mint/</link>
       <pubDate>Sun, 03 Sep 2017 17:54:30 +0700</pubDate>
       
-      <guid>http://localhost/tags/linux-mint/</guid>
+      <guid>https://yelinguin.github.io/tags/linux-mint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Premierleague</title>
-      <link>http://localhost/tags/premierleague/</link>
+      <link>https://yelinguin.github.io/tags/premierleague/</link>
       <pubDate>Fri, 29 Sep 2017 20:49:14 +0700</pubDate>
       
-      <guid>http://localhost/tags/premierleague/</guid>
+      <guid>https://yelinguin.github.io/tags/premierleague/</guid>
       <description></description>
     </item>
     

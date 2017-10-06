@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guin Guin</title>
-    <link>http://localhost/</link>
+    <link>https://yelinguin.github.io/</link>
     <description>Recent content on Guin Guin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Sep 2017 20:49:14 +0700</lastBuildDate>
     
-	<atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yelinguin.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>บทวิจารณ์พรีเมียร์ลีกสัปดาห์ที่ 6</title>
-      <link>http://localhost/post/2017-09-29-premierleagueweek6-review/</link>
+      <link>https://yelinguin.github.io/post/2017-09-29-premierleagueweek6-review/</link>
       <pubDate>Fri, 29 Sep 2017 20:49:14 +0700</pubDate>
       
-      <guid>http://localhost/post/2017-09-29-premierleagueweek6-review/</guid>
+      <guid>https://yelinguin.github.io/post/2017-09-29-premierleagueweek6-review/</guid>
       <description>คอลัมน์ขำๆ, เกร็ดเล็กเกร็ดน้อย, บทวิเคราะห์ อะไรดี ขอเรียกบทวิจารณ์ละกัน อาจจะยาวหน่อย พยายามไม่ยืดเยื้อ &amp;hellip;.ทนๆ อ่านไปเหอะนะ ฮ่าๆ
 เริ่มต้นด้วยบิ๊กแมตช์ประจำสัปดาห์ ลอนดอนดาบี้แมตช์
  West Ham 2 - Spurs 3  ไก่เดือยทองยังเอาตัวรอดมาจากลอนดอนสเตเดี้ยมครึ่งแรกอุตส่าห์นำขาดถึง 3-0 กระนั้นแล้วเกมรับ ซึ่งเคยเป็นจุดแข็งในสองปีหลัง ทำไมถึงเสียไปแล้วถึง 5 ประตู พอชคงต้องคิดแล้วว่าแผงหลัง 3 คนเหมาะกับทีมหรือไม่ โดยทั้งสองลูกที่เสียในเกมนี้มาจากลูกโหม่ง
@@ -30,10 +30,10 @@
     
     <item>
       <title>Linuxmint Sound</title>
-      <link>http://localhost/post/linuxmint-sound/</link>
+      <link>https://yelinguin.github.io/post/linuxmint-sound/</link>
       <pubDate>Sun, 03 Sep 2017 17:54:30 +0700</pubDate>
       
-      <guid>http://localhost/post/linuxmint-sound/</guid>
+      <guid>https://yelinguin.github.io/post/linuxmint-sound/</guid>
       <description>หลังจากใช้งานลีนุกซ์ Mint มาสักพักนึง ชอบมีปัญหาไม่มีเสียงอยู่หลายครั้ง แต่มีอยู่วันนึงพอเสียบลำโพง (เนื่องจากไม่ได้เสียบลำโพงไว้ตลอดเวลาเพราะข้อจำกัดของพื้นที่) ดันไม่มีเสียงซะงั้น จึงต้องหาวิธีแก้กันใหญ่เลย ลงโน่นลงนี้ ลบโน่นลบนี่ alsamixer ว่าไปเรื่อย กว่าจะแก้ได้ก็เล่นเอาเหนื่อยเหมือนกันแหะ (จำวิธีแก้ไม่ได้แล้วด้วย เพราะลองหลายวิธีไม่รู้วิธีไหนเวิร์ค)
 แค่นี้แหละ บ่นๆ
 โกโรโกโส</description>
@@ -41,20 +41,20 @@
     
     <item>
       <title>About me</title>
-      <link>http://localhost/page/about/</link>
+      <link>https://yelinguin.github.io/page/about/</link>
       <pubDate>Tue, 04 Jul 2017 23:18:59 +0700</pubDate>
       
-      <guid>http://localhost/page/about/</guid>
+      <guid>https://yelinguin.github.io/page/about/</guid>
       <description>My name is Sumet Rungruangbaiyok,
 just try blogging. nothing more than that.</description>
     </item>
     
     <item>
       <title>Linuxmint</title>
-      <link>http://localhost/post/linuxmint/</link>
+      <link>https://yelinguin.github.io/post/linuxmint/</link>
       <pubDate>Sat, 01 Jul 2017 20:07:28 +0700</pubDate>
       
-      <guid>http://localhost/post/linuxmint/</guid>
+      <guid>https://yelinguin.github.io/post/linuxmint/</guid>
       <description>หลังจากได้คอมพิวเตอร์เครื่องใหม่ อยากกลับไปใช้งาน Linux เงื่อนไข คือ ต้องเล่น Steam ได้ เพราะจะเอามาตีดอท ฮ่าๆ และที่สำคัญต้องมีไดรเวอร์การ์ดไวเลสที่ซื้อมาแบบพร้อมใช้งาน (ขี้เกียจ) จากประสบการณ์ควรใช้ชิปของ Intel (Broadcom ต้องออกแรงอีก เหนื่อย)
 ให้ง่ายต้องเลือก Ubuntu Derivative เลือก Mint (ลีนุกซ์เลขไทย 2 แปลกดี) เคยเล่นแล้วประทับใจดี เลือกใช้เวอร์ชั่น Cinnamon 18.1 Serena ซึ่งพัฒนาจาก Ubuntu 16.04
 จากนั้น จึงดาวน์โหลดไฟล์ ISO แล้วมายัดใส่ USB เนื่องจากไม่มีสายไฟ Molex to SATA (Power Supply มีไม่พอ เห้อ แต่ขน DVD-ROM มาจากบ้านเลยนะนั่น) โดยใช้โอเพ่นซอร์สตัวนึงชื่อ Rufus เป็นอันเสร็จเรียบร้อย
@@ -66,10 +66,10 @@ just try blogging. nothing more than that.</description>
     
     <item>
       <title>Welcome</title>
-      <link>http://localhost/post/welcome/</link>
+      <link>https://yelinguin.github.io/post/welcome/</link>
       <pubDate>Sat, 01 Jul 2017 20:07:19 +0700</pubDate>
       
-      <guid>http://localhost/post/welcome/</guid>
+      <guid>https://yelinguin.github.io/post/welcome/</guid>
       <description>กว่าจะได้เริ่มสักทีกับ Static Gen, Hugo นั่นเองที่ผมได้เลือกมาลองใช้งานครับ
 โกโรโกโส</description>
     </item>
