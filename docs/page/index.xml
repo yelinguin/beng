@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Guin Guin</title>
+    <link>http://localhost/page/</link>
+    <description>Recent content in Pages on Guin Guin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Jul 2017 23:18:59 +0700</lastBuildDate>
+    
+	<atom:link href="http://localhost/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>http://localhost/page/about/</link>
+      <pubDate>Tue, 04 Jul 2017 23:18:59 +0700</pubDate>
+      
+      <guid>http://localhost/page/about/</guid>
+      <description>My name is Sumet Rungruangbaiyok,
+just try blogging. nothing more than that.</description>
+    </item>
+    
+  </channel>
+</rss>

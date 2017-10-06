@@ -4,7 +4,7 @@ date: 2017-09-29T20:49:14+07:00
 draft: false
 
 subtitle: "บทวิจารณ์หลังเกมสัปดาห์ที่ 6 สไตล์บ้านๆ"
-tags: ["premierleague, football"]
+tags: ["premierleague", "football"]
 ---
 
 คอลัมน์ขำๆ, เกร็ดเล็กเกร็ดน้อย, บทวิเคราะห์ อะไรดี ขอเรียกบทวิจารณ์ละกัน

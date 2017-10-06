@@ -1,4 +1,5 @@
-baseURL = "https://yelinguin.github.io/"
+#baseURL = "https://yelinguin.github.io/"
+baseURL = "http://localhost"
 DefaultContentLanguage = "th"
 publishDir = "docs"
 languageCode = "en-us"
