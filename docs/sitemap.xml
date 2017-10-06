@@ -3,66 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yelinguin.github.io/beng/post/test/</loc>
-    <lastmod>2017-09-29T22:17:28+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yelinguin.github.io/beng/post/2017-09-29-premierleagueweek6-review/</loc>
+    <loc>https://yelinguin.github.io/post/2017-09-29-premierleagueweek6-review/</loc>
     <lastmod>2017-09-29T20:49:14+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yelinguin.github.io/beng/post/linuxmint-sound/</loc>
+    <loc>https://yelinguin.github.io/post/linuxmint-sound/</loc>
     <lastmod>2017-09-03T17:54:30+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yelinguin.github.io/beng/post/about/</loc>
-    <lastmod>2017-07-04T23:15:15+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yelinguin.github.io/beng/post/linuxmint/</loc>
+    <loc>https://yelinguin.github.io/post/linuxmint/</loc>
     <lastmod>2017-07-01T20:07:28+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yelinguin.github.io/beng/post/welcome/</loc>
+    <loc>https://yelinguin.github.io/post/welcome/</loc>
     <lastmod>2017-07-01T20:07:19+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yelinguin.github.io/beng/categories/</loc>
+    <loc>https://yelinguin.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yelinguin.github.io/beng/</loc>
-    <lastmod>2017-09-29T22:17:28+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yelinguin.github.io/beng/tags/linux-linux-mint/</loc>
-    <lastmod>2017-09-03T17:54:30+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yelinguin.github.io/beng/post/</loc>
-    <lastmod>2017-09-29T22:17:28+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yelinguin.github.io/beng/tags/premierleague-football/</loc>
+    <loc>https://yelinguin.github.io/</loc>
     <lastmod>2017-09-29T20:49:14+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yelinguin.github.io/beng/tags/</loc>
+    <loc>https://yelinguin.github.io/tags/linux/</loc>
+    <lastmod>2017-09-03T17:54:30+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yelinguin.github.io/tags/linux-mint/</loc>
+    <lastmod>2017-09-03T17:54:30+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yelinguin.github.io/post/</loc>
+    <lastmod>2017-09-29T20:49:14+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yelinguin.github.io/tags/premierleague-football/</loc>
+    <lastmod>2017-09-29T20:49:14+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yelinguin.github.io/tags/</loc>
     <lastmod>2017-09-03T17:54:30+07:00</lastmod>
     <priority>0</priority>
   </url>
