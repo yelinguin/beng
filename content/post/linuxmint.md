@@ -4,7 +4,7 @@ date: 2017-07-01T20:07:28+07:00
 draft: false
 
 subtitle: "กลับมาทดลองเล่น Linux Mint"
-tags: ["linux, linux mint"]
+tags: ["linux", "linux mint"]
 ---
 
 หลังจากได้คอมพิวเตอร์เครื่องใหม่ อยากกลับไปใช้งาน Linux

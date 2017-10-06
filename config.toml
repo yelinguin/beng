@@ -24,44 +24,9 @@ enableEmoji = true
 [[menu.main]]
     name = "About"
     url = "page/about/"
-    weight = 3
-
-[[menu.main]]
-    identifier = "Hobbies"
-    name = "Hobbies"
     weight = 2
-
-[[menu.main]]
-    parent = "Hobbies"
-    name = "Football"
-    url = "post/2017-03-07-bigimg-sample"
-    weight = 1
-
-[[menu.main]]
-    parent = "Hobbies"
-    name = "Game"
-    url = "post/2017-03-05-math-sample"
-    weight = 2
-
-[[menu.main]]
-    parent = "Hobbies"
-    name = "Reading"
-    url = "post/2016-03-08-code-sample"
-    weight = 3
-
-[[menu.main]]
-    parent = "Hobbies"
-    name = "Travel"
-    url = "post/2016-03-08-code-sample"
-    weight = 4
-
-[[menu.main]]
-    parent = "Hobbies"
-    name = "Planting"
-    url = "post/2016-03-08-code-sample"
-    weight = 5
 
 [[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 3
+    weight = 4
