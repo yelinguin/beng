@@ -1,7 +1,7 @@
 ---
 title: "บทวิจารณ์พรีเมียร์ลีกสัปดาห์ที่ 7"
 date: 2017-10-07T15:45:23+07:00
-draft: true
+draft: false
 
 subtitle: "บทวิจารณ์หลังเกมสัปดาห์ที่ 7 สไตล์บ้านๆ"
 tags: ["premierleague", "football"]
