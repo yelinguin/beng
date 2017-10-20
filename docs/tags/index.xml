@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Guin Guin</title>
-    <link>http://blog.choyjung.tk/tags/</link>
+    <link>https://yelinguin.github.io/tags/</link>
     <description>Recent content in Tags on Guin Guin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Oct 2017 15:45:23 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 18 Oct 2017 20:29:33 +0700</lastBuildDate>
     
-	<atom:link href="http://blog.choyjung.tk/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yelinguin.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Football</title>
-      <link>http://blog.choyjung.tk/tags/football/</link>
-      <pubDate>Sat, 07 Oct 2017 15:45:23 +0700</pubDate>
+      <link>https://yelinguin.github.io/tags/football/</link>
+      <pubDate>Wed, 18 Oct 2017 20:29:33 +0700</pubDate>
       
-      <guid>http://blog.choyjung.tk/tags/football/</guid>
+      <guid>https://yelinguin.github.io/tags/football/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>http://blog.choyjung.tk/tags/linux/</link>
+      <link>https://yelinguin.github.io/tags/linux/</link>
       <pubDate>Sun, 03 Sep 2017 17:54:30 +0700</pubDate>
       
-      <guid>http://blog.choyjung.tk/tags/linux/</guid>
+      <guid>https://yelinguin.github.io/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux Mint</title>
-      <link>http://blog.choyjung.tk/tags/linux-mint/</link>
+      <link>https://yelinguin.github.io/tags/linux-mint/</link>
       <pubDate>Sun, 03 Sep 2017 17:54:30 +0700</pubDate>
       
-      <guid>http://blog.choyjung.tk/tags/linux-mint/</guid>
+      <guid>https://yelinguin.github.io/tags/linux-mint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Premierleague</title>
-      <link>http://blog.choyjung.tk/tags/premierleague/</link>
-      <pubDate>Sat, 07 Oct 2017 15:45:23 +0700</pubDate>
+      <link>https://yelinguin.github.io/tags/premierleague/</link>
+      <pubDate>Wed, 18 Oct 2017 20:29:33 +0700</pubDate>
       
-      <guid>http://blog.choyjung.tk/tags/premierleague/</guid>
+      <guid>https://yelinguin.github.io/tags/premierleague/</guid>
       <description></description>
     </item>
     

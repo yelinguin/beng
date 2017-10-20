@@ -1,5 +1,5 @@
-#baseURL = "https://yelinguin.github.io/"
-baseURL = "http://blog.choyjung.tk/"
+baseURL = "https://yelinguin.github.io/"
+#baseURL = "http://blog.choyjung.tk/"
 DefaultContentLanguage = "th"
 publishDir = "docs"
 languageCode = "en-us"
