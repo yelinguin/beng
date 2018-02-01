@@ -1,7 +1,7 @@
 ---
 title: "บทวิจารณ์พรีเมียร์ลีกสัปดาห์ที่ 13"
 date: 2017-11-03T22:30:11+07:00
-draft: true
+draft: false
 
 subtitle: "บทวิจารณ์หลังเกมสัปดาห์ที่ 13 สไตล์บ้านๆ"
 tags: ["premierleague", "football"]
