@@ -1,5 +1,5 @@
 ###baseURL = "https://yelinguin.github.io/"
-baseURL = "https://blog.choyjung.tk/"
+baseURL = "https://blog.choyjung.ml/"
 DefaultContentLanguage = "th"
 publishDir = "docs"
 languageCode = "en-us"
